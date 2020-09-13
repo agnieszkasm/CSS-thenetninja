@@ -1,4 +1,22 @@
+
+/****************
+Author: Aga S.
+Date: Sept 2020 
+*********************/
+
+/*Style all p tags*/
 p {
-    font-size: 18px;
-    color: red;
+   font-size: 18px;
+   color: red;
+}
+ /*
+#header p {
+   font-size: 14px;
+}
+ */
+
+/*style all header tags*/
+ 
+h1 {
+   font-size: 44px;
 }
