@@ -1,6 +1,16 @@
-span {
-    color: blue;
-    }
-span {
+body {
     color: red;
-    }
+}
+
+div {
+    color: blue;
+}
+
+P {
+    color: green;
+}
+
+a{
+    color: yellow;
+    text-decoration: whitesmoke;
+}
