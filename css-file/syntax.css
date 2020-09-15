@@ -1,4 +1,28 @@
-#all-articles h2 + p{
-    color: red;
+
+/*span[class] {
+    color: purple;
+}*/
+
+div[id] {
+    background: grey;
+}
+/*
+a[title] {
+   color: red 
+} */
+a[title="Search engine"] {
+    color: red 
  }
- 
+  
+ span[class~="deck"] {
+    color: purple;
+}
+
+a[href$="pdf"] {
+    color: yellowgreen;
+}
+
+a[href^="http"] {
+    color: pink;
+}
+
