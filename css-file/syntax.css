@@ -1,3 +1,6 @@
-#main-content p {
+
+/*child combinator* > says: give me direct children only*/
+#main-content > p {
     color: red;
-}
+ }
+ 
