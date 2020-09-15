@@ -1,6 +1,4 @@
-
-/*child combinator* > says: give me direct children only*/
-#main-content > p {
+#all-articles h2 + p{
     color: red;
  }
  
