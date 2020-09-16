@@ -1,14 +1,6 @@
-/*
-article:nth-child(2) {
-    background: grey;
-}*/
-article:nth-of-type(1) {
-    background: grey;
+article.featured-content {
+    background: red;
 }
-
-article:nth-of-type(odd) {
-    background: grey;
-}
-article:nth-last-of-type(2n +1) {
-    background: pink;
+div.featured-content {
+    background: blue;
 }
