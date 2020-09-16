@@ -1,9 +1,11 @@
-a  {
-    text-decoration:line-through;
-    }
-
-    article h2, article p {
-        font-family: arial;
-     }
-     
-    
+h1 {
+    font-weight: normal;
+}
+/*
+p {
+   font-weight: lighter; 
+    font-family: "Yu Gothic";
+}*/
+p {
+    font-weight: 900;
+}
