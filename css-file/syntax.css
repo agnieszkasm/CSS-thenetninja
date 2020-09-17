@@ -1,20 +1,5 @@
-/*p {
-    font-size: 12px;
-    letter-spacing: 3px;
-}*/
-
-p {
-    word-spacing: 12;px
+p { 
+    font-size: 14px;
+    line-height: 2em;
+    margin-bottom: 32px;
 }
-
-p {
-    line-height: 12px;
-}
-    
-p {
-    font-size: 12px;
-    letter-spacing: 2em;
-    word-spacing: 2em;
-    line-height: 1em;
-}
-
