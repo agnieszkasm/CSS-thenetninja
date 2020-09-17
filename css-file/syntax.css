@@ -1,11 +1,20 @@
-a{
-    color: crimson;
-    text-decoration: none;
-    font-weight: bold;
+/*p {
+    font-size: 12px;
+    letter-spacing: 3px;
+}*/
 
+p {
+    word-spacing: 12;px
 }
-a:hover {
-    color: darkmagenta;
-    text-decoration: underline;
-    background-color: darkseagreen;
+
+p {
+    line-height: 12px;
 }
+    
+p {
+    font-size: 12px;
+    letter-spacing: 2em;
+    word-spacing: 2em;
+    line-height: 1em;
+}
+
