@@ -1,56 +1,23 @@
-.box {
-    padding: 20px;
-    margin: 20px;
-    float: left;
-    border-top-width: 10px;
-    border-top-style: solid;
-    border-top-color: blue;
-} 
-
-/*the below is exactly teh same!*/
-.box { 
-    padding: 20px;
-    margin: 20px;
-    float: left;
-    border-top:  10px solid blue;
-}
-
-.box {
-    padding: 20px;
-    margin: 20px;
-    float: left;
-    border: 10px solid blue;
+.block {
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid #000;
 
 }
 
-.dashed {
-   border: 1px blue dashed; 
+ .inline {
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid #000;
+    display: inline-block;
 }
 
-.doted {
-    border: 1px blue dotted; 
- }
-
- .double {
-    border: 1px blue double; 
- }
-
- .groove {
-    border: 14px blue groove; 
- }
-
- .inset {
-    border: 14px blue inset; 
- }
-
- .outset {
-    border: 14px blue outset;
+a {
+    padding:10px;
+    margin: 10ps;
+    background-color: #444;
+    border :1px solid #aaa;
+    color: #000;
+    text-decoration: none;
+    display: inline-block;
 }
-
-.ridge {
-    border: 14px blue ridge; 
- }
-
- .solid {
-    border: 1px blue solid; 
- }
