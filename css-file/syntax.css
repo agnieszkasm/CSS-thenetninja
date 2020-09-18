@@ -1,9 +1,56 @@
 .box {
-    border: 1px solid #000;
-    padding: 20px; 
-    margin:10px;   
+    padding: 20px;
+    margin: 20px;
+    float: left;
+    border-top-width: 10px;
+    border-top-style: solid;
+    border-top-color: blue;
+} 
+
+/*the below is exactly teh same!*/
+.box { 
+    padding: 20px;
+    margin: 20px;
+    float: left;
+    border-top:  10px solid blue;
 }
 
-.small{
-    padding-left:  100px;
+.box {
+    padding: 20px;
+    margin: 20px;
+    float: left;
+    border: 10px solid blue;
+
 }
+
+.dashed {
+   border: 1px blue dashed; 
+}
+
+.doted {
+    border: 1px blue dotted; 
+ }
+
+ .double {
+    border: 1px blue double; 
+ }
+
+ .groove {
+    border: 14px blue groove; 
+ }
+
+ .inset {
+    border: 14px blue inset; 
+ }
+
+ .outset {
+    border: 14px blue outset;
+}
+
+.ridge {
+    border: 14px blue ridge; 
+ }
+
+ .solid {
+    border: 1px blue solid; 
+ }
