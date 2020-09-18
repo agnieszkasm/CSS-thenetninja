@@ -1,5 +1,10 @@
-p { 
-    font-size: 14px;
-    line-height: 2em;
-    margin-bottom: 32px;
+.box {
+    margin: 30px;
+    padding: 30px;
+    border: 1px solid #000;
+   /* width: 480px;
+    height: 200px;*/
+    /*width: 100%;*/
+    width: 200px;
+    height: 200px;
 }
