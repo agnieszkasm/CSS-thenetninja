@@ -1,14 +1,8 @@
 .static-width {
     width: 300px;
     height: 300px;
-    background-color:#606060;
-    background-image: url(https://www.w3schools.com/w3css/img_lights.jpg);
-    /*background-repeat: round; */
-    background-repeat: no-repeat;
-    /* full pictures; it goes around, not cut off at edges: background-repeat: round; */
-    background-position: center;
-    background-position: 20% 10%;
-    background-position: 5px 50px;
-    background-size: 300px;
+    background: url(https://www.w3schools.com/w3css/img_lights.jpg) no-repeat top center;
+    background-color: #686868;
+    background-size: 200px
 
 }
